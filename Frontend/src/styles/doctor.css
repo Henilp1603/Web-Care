@@ -1,0 +1,20 @@
+.mainH{
+ font-size: 50px;
+ font-weight: bold;
+ padding-bottom: 50px;
+ text-align: left;
+}
+
+.secondH{
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 50px;
+    text-align: left;
+}
+
+.des{
+    font-size: 20px;
+  font-weight: normal;
+  padding-bottom: 50px;
+  text-align: left;
+}

@@ -1,0 +1,53 @@
+[
+    {
+      
+      "title": "Hydrocodone",
+      "description":"adcd",
+      "price": 10.99,
+      "category":"Medicine",
+      "quantity":10,
+      "image": "/uploads/p-1.jpg"
+    },
+    {
+      
+      "title": "Metformin",
+      "price": 119.9,
+      "imgUrl": "/img/p-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Losartan",
+      "price": 105,
+      "imgUrl": "/img/p-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Antibiotics",
+      "price": 140.79,
+      "imgUrl": "/img/p-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Albuterol",
+        "price": 250,
+        "imgUrl": "/img/p-5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Antihistamines",
+        "price": 160,
+        "imgUrl": "/img/p-6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Zolgensma",
+        "price": 190,
+        "imgUrl": "/img/img5.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Metformin",
+        "price": 119.9,
+        "imgUrl": "/img/p-2.jpg"
+      }
+  ]

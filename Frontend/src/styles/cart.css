@@ -1,0 +1,206 @@
+:root{
+    --blue:#0188DF;
+    --black:#354046;
+  }
+
+.Container{
+    display: flex;
+    margin: 7rem 200px;
+/* margin-top: 70px; */
+}
+
+.cart{
+    width: 65%;
+    background-color: #f2f2f2;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 30px 0;
+}
+
+table{
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+}
+
+th{
+    font-size: 24px;
+}
+
+.hline { width:100%; height:1px; background:rgba(19, 19, 19, 0.913) }
+
+
+.table-head{
+   
+    color: white;
+    background-color:var(--blue);
+}
+
+.head-img{
+    text-align: left;
+    padding-left:10px ;
+}
+
+.detailA{
+    margin-top: 30px;
+    padding: 0 30px;
+}
+
+.checkoutdiv{
+    padding: 0 10px;
+    margin-bottom: 20px;
+}
+
+.summary{
+    background-color: #f2f2f2;
+    width: 35%;
+    margin-left:20px ;
+
+}
+
+.details{
+    margin: 10px 0;
+    padding: 0 10px;
+    align-items: center;
+    background-color:var(--blue);
+    color: white;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    border: none;
+    outline: none;
+    width: 100%;
+    height: 40px;
+    margin: 15px 0;
+    padding: 7px;
+    font-size: 20px;
+
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+   font-size: 20px;
+  }
+
+/* button{
+    border: none;
+    background-color: red;
+    padding: 8px 30px;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: 20px;
+} */
+
+.first-btn{
+    border: none;
+    background-color: red;
+    padding: 8px 30px;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.Quantity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fa-plus{
+    padding-right: 10px;
+    cursor: pointer;
+}
+.fa-minus{
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.checkout{
+    border: none;
+    padding: 8px 30px;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: 20px;
+    width: 100%;
+    background-color:var(--blue);
+    
+}
+
+.imgTD{
+    width: 150px;
+}
+
+.nameTD{
+   width:360px ; 
+}
+
+.nameTD p{
+    font-size: 20px;
+}
+
+.priceTD{
+    width: 150px;
+}
+
+.priceTD h2{
+    font-size: 20px;
+}
+
+.deleteTD{
+    width: 70px;
+}
+
+.deleteTD i{
+    cursor: pointer;
+}
+
+
+
+
+.img-box{
+    margin: 7px;
+    width: 75px;
+    /* height: 75px; */
+    border: 1px solid #18bdfe;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img{
+    max-width: 75px;
+    max-height: 75px;
+    /* border-radius: 50%; */
+}
+
+.fa-trash{
+    color:var(--blue);
+
+}
+
+.fa-trash:hover{
+    color: #18bdfe;
+
+}
+
+.empty-cart{
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 230px;
+}

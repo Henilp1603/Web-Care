@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "Hydrocodone",
+      "price": 10.99,
+      "image": "/img/p-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Metformin",
+      "price": 119.9,
+      "image": "/img/p-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Losartan",
+      "price": 105,
+      "image": "/img/p-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Antibiotics",
+      "price": 140.79,
+      "image": "/img/p-4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Albuterol",
+        "price": 250,
+        "image": "/img/p-5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Antihistamines",
+        "price": 160,
+        "image": "/img/p-6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Zolgensma",
+        "price": 190,
+        "image": "/img/img5.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Metformin",
+        "price": 119.9,
+        "image": "/img/p-2.jpg"
+      }
+  ]
